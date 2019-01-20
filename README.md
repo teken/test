@@ -16,7 +16,7 @@ Showdown is a Javascript Markdown to HTML converter, based on the original works
 
 
 
-repo link: [page.md][@page]
+repo link: [page.md](@page)
 
 
 # Installation

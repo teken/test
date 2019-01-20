@@ -2,6 +2,13 @@
 [releases]: https://github.com/showdownjs/showdown/releases
 [atx]: http://www.aaronsw.com/2002/atx/intro
 [setext]: https://en.wikipedia.org/wiki/Setext
+[md-spec]: http://daringfireball.net/projects/markdown/
+[md-newsletter]: https://pairlist6.pair.net/mailman/listinfo/markdown-discuss
+[atx]: http://www.aaronsw.com/2002/atx/intro
+[setext]: https://en.wikipedia.org/wiki/Setext
+[readme]: https://github.com/showdownjs/showdown/blob/master/README.md
+[awkward effect]: http://i.imgur.com/YQ9iHTL.gif
+[emoji list]: https://github.com/showdownjs/showdown/wiki/emojis
 
 ![Showdown][sd-logo]
 
@@ -729,11 +736,3 @@ In most cases, Showdown's output is identical to that of Perl Markdown v1.0.2b7.
     ```
 
 This new ruleset is based on the comments of Markdown's author John Gruber in the [Markdown discussion list][md-newsletter].
-
-[md-spec]: http://daringfireball.net/projects/markdown/
-[md-newsletter]: https://pairlist6.pair.net/mailman/listinfo/markdown-discuss
-[atx]: http://www.aaronsw.com/2002/atx/intro
-[setext]: https://en.wikipedia.org/wiki/Setext
-[readme]: https://github.com/showdownjs/showdown/blob/master/README.md
-[awkward effect]: http://i.imgur.com/YQ9iHTL.gif
-[emoji list]: https://github.com/showdownjs/showdown/wiki/emojis
